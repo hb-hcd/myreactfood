@@ -11,7 +11,7 @@ const HeadlineCards = () => {
         {
             id: 2,
             url: "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg?auto=compress&cs=tinysrgb&w=600",
-            title: "Wake up coffeess",
+            title: "Wake up coffee",
             desc: "Through 08/31"
         },
         {
